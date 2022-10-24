@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-firebase-dynamic-links-tutorial",
+    "slug": "react-native-firebase-dynamic-links-tutorial",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-firebase-dynamic-links-tutorial"
+}
