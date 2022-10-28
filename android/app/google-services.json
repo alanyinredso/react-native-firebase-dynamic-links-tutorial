@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "666444239343",
+    "project_id": "sharing-dynamic-links",
+    "storage_bucket": "sharing-dynamic-links.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666444239343:android:22f925f86773b558e0261a",
+        "android_client_info": {
+          "package_name": "com.reactnativefirebasedynamiclinkstutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666444239343-kfc2tdphudf4vv38sccplgkqqemsmoes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnativefirebasedynamiclinkstutorial",
+            "certificate_hash": "1a8f7b95a53e37eabcfdf6de2f75498c787c1a0d"
+          }
+        },
+        {
+          "client_id": "666444239343-r3ol78d6vmu4air3mtc5j5mgdeveok87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwATGFJOVvEG6ypPxatSRApwX53YZQ24I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666444239343-r3ol78d6vmu4air3mtc5j5mgdeveok87.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666444239343-5aumum7ol5tgrsqb00l3gf156fhbi1d0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.name.reactnativefirebasedynamiclinkstutorial",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
